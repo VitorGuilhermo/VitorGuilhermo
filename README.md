@@ -40,10 +40,10 @@
 ## My Github Stats
 <p align="center">
   <a href="https://github.com/Vitor_Guilhermo/github-readme-stats">
-    <img align="left" width="410" src="https://github-readme-stats.vercel.app/api?username=VitorGuilhermo&amp;count_private=true&amp;theme=algolia&amp;show_icons=true"     alt="Vitor Guilhermo GitHub stats">
+    <img align="left" width="405" src="https://github-readme-stats.vercel.app/api?username=VitorGuilhermo&amp;count_private=true&amp;theme=algolia&amp;show_icons=true"     alt="Vitor Guilhermo GitHub stats">
   </a>
   <a href="https://git.io/streak-stats">
-    <img align="right" width="410" src="http://github-readme-streak-stats.herokuapp.com?user=VitorGuilhermo&amp;theme=algolia&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+    <img align="right" width="405" src="http://github-readme-streak-stats.herokuapp.com?user=VitorGuilhermo&amp;theme=algolia&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
   </a>
 </p>
 </br>
