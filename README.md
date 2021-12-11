@@ -1,4 +1,4 @@
-<h1> Hi, I'm Vitor Guilhermo 
+<h1 align="center"> Hi there, I'm Vitor Guilhermo 
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="28" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></a>🐺 </h1>
 
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 
 
-## Technology Stack
+## 💻 Technology Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C">
@@ -38,7 +38,7 @@
 
 
 
-## My Github Stats
+## 📊 My Github Stats
 <div align="center">
   <a href="https://github.com/Vitor_Guilhermo/github-readme-stats">
     <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=VitorGuilhermo&amp;count_private=true&amp;theme=algolia&amp;show_icons=true"     alt="Vitor Guilhermo GitHub stats">
@@ -59,7 +59,7 @@
 
 
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">💬 Connect with me:</h2>
 <p align="center">
   <a href="https://www.facebook.com/vitor.araujo.167527/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&amp;logo=Facebook&amp;logoColor=white" alt="Facebook">
