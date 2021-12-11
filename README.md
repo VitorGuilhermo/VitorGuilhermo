@@ -6,6 +6,7 @@ I am an Information Systems student, in the 4th year of college 👨‍🎓 🏛
 
 
 ## My Github Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VitorGuilhermo&theme=solarized-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <h2 align="left">Connect with me:</h2>
 <p align="center">
