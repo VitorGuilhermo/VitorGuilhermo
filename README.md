@@ -46,7 +46,7 @@
     <img align="right" width="400" src="http://github-readme-streak-stats.herokuapp.com?user=VitorGuilhermo&amp;theme=algolia&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
   </a>
 </p>
-<br>
+<br><br><br><br><br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGuilhermo&amp;theme=algolia&amp;layout=compact" alt="Top Langs">
