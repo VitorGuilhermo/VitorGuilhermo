@@ -38,7 +38,7 @@
 
 
 ## My Github Stats
-<p align="justify">
+<p align="left">
   <a href="https://github.com/Vitor_Guilhermo/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorGuilhermo&amp;count_private=true&amp;theme=algolia&amp;show_icons=true" alt="Vitor Guilhermo GitHub stats">
   </a>
