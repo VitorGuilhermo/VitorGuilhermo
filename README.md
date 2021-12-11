@@ -1,13 +1,13 @@
 <h1 align="center"> Hi there, I'm Vitor Guilhermo 
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="28" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></a>🐺 </h1>
 
-<p align="center">
+<h4 align="center">
   I'm an Information Systems student, in the 4th year of college 👨‍🎓 🏛. I'm a passionate student who is always willing to learn and work with technologies 💡. I love studying and exploring new technologies, continually seeking to specialize 🧑‍💻. I am currently studying ReactJS and Node 📚 💻.
-</p>
+</h4>
 
 
 ## 💻 Technology Stack
-
+<br><br>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">
@@ -35,10 +35,11 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&amp;logo=Arduino&amp;logoColor=white" alt="Arduino">
 </p>
-
+<br><br>
 
 
 ## 📊 My Github Stats
+<br><br>
 <div align="center">
   <a href="https://github.com/Vitor_Guilhermo/github-readme-stats">
     <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=VitorGuilhermo&amp;count_private=true&amp;theme=algolia&amp;show_icons=true"     alt="Vitor Guilhermo GitHub stats">
@@ -55,7 +56,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGuilhermo&amp;theme=algolia&amp;layout=compact" alt="Top Langs">
   </a> 
 </div>
-
+<br><br>
 
 
 
@@ -77,3 +78,4 @@
     <img src="https://img.shields.io/badge/viguilhermo@hotmail.com-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white" alt="Outlook">
   </a>
 </p>
+<br><br>
