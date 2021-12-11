@@ -38,7 +38,7 @@
 
 
 ## My Github Stats
-[![Vitor Guilhermo GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGuilhermo&count_private=true&theme=algoliashow_icons=true)](https://github.com/Vitor_Guilhermo/github-readme-stats)
+[![Vitor Guilhermo GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGuilhermo&count_private=true&theme=algolia&show_icons=true)](https://github.com/Vitor_Guilhermo/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VitorGuilhermo&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
