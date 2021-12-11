@@ -1,8 +1,9 @@
 ## Hi, I'm Vitor Guilhermo 👋🐺
 
 <p align="center">
-  I am an Information Systems student, in the 4th year of college 👨‍🎓 🏛. I am a passionate student who is always willing to learn and work with technologies 💡. I love studying and exploring new technologies, continually seeking to specialize 🧑‍💻. I am currently studying ReactJS and Node 📚 💻.
+  I'm an Information Systems student, in the 4th year of college 👨‍🎓 🏛. I'm a passionate student who is always willing to learn and work with technologies 💡. I love studying and exploring new technologies, continually seeking to specialize 🧑‍💻. I am currently studying ReactJS and Node 📚 💻.
 </p>
+
 
 ## Technology Stack
 
@@ -36,11 +37,11 @@
 
 
 
-
-
-
 ## My Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGuilhermo&count_private=true&theme=algolia)](https://github.com/Vitor_Guilhermo/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VitorGuilhermo&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 <h2 align="left">Connect with me:</h2>
 <p align="center">
