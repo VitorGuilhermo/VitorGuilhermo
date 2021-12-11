@@ -38,9 +38,9 @@
 
 
 ## My Github Stats
-<p align="center">
+<p align="left">
   <a href="https://github.com/Vitor_Guilhermo/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=VitorGuilhermo&amp;count_private=true&amp;theme=algolia&amp;show_icons=true"     alt="Vitor Guilhermo GitHub stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorGuilhermo&amp;count_private=true&amp;theme=algolia&amp;show_icons=true"     alt="Vitor Guilhermo GitHub stats">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGuilhermo&amp;theme=algolia&amp;layout=compact" alt="Top Langs">
