@@ -84,4 +84,4 @@
   </a>
 </p>
 <br><br>
-<h2 align="center">🚀 PLUS ULTRA 🚀</h2>
+<h1 align="center">🚀 PLUS ULTRA 🚀</h1>
