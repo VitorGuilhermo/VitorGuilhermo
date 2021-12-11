@@ -53,6 +53,9 @@
   <a href="https://www.linkedin.com/in/vitor-guilhermo-64a204215/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://open.spotify.com/user/kanzuo?si=a610a27ab7f74238">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&amp;logo=spotify&amp;logoColor=white" alt="Spotify">
+  </a>  
   <a href="mailto: viguilhermo@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/viguilhermo@hotmail.com-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white" alt="Outlook">
   </a>
