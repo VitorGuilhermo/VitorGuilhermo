@@ -5,6 +5,10 @@
 </p>
 
 
+<p>
+  <img align="right" width="500" style="max-width: 100%;" src="https://user-images.githubusercontent.com/49166763/148075994-f5f5b10a-81e4-46b4-b245-28b880a0aa1c.gif" alt="tenor">
+</p>
+
 <h3 align="center">
   I'm an Information Systems student, in the 4th year of college 👨‍🎓 🏛. I'm a passionate student who is always willing to learn and work with technologies 💡. I love studying and exploring new technologies, continually seeking to specialize 🧑‍💻. I am currently studying ReactJS and Node 📚 💻.
 </h3>
