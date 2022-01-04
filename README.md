@@ -6,7 +6,7 @@
 
 
 <p>
-  <img align="right" width="500" style="max-width: 100%;" src="https://user-images.githubusercontent.com/49166763/148075994-f5f5b10a-81e4-46b4-b245-28b880a0aa1c.gif" alt="tenor">
+  <img align="right" width="400" style="max-width: 100%;" src="https://user-images.githubusercontent.com/49166763/148075994-f5f5b10a-81e4-46b4-b245-28b880a0aa1c.gif" alt="tenor">
 </p>
 
 <h3 align="justify">
