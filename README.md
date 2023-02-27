@@ -6,11 +6,11 @@
 
 
 <p>
-  <img align="right" width="400" style="max-width: 100%;" src="https://user-images.githubusercontent.com/49166763/148075994-f5f5b10a-81e4-46b4-b245-28b880a0aa1c.gif" alt="tenor">
+  <img align="right" width="300" style="max-width: 100%;" src="https://user-images.githubusercontent.com/49166763/148075994-f5f5b10a-81e4-46b4-b245-28b880a0aa1c.gif" alt="tenor">
 </p>
 
-<h3 align="justify">
-  I'm an Information Systems student, in the 4th year of college 👨‍🎓 🏛. I'm a passionate student who is always willing to learn and work with technologies 💡. I love studying and exploring new technologies, continually seeking to specialize 🧑‍💻. I'm currently studying ReactJS and Node.js 📚 💻.
+<h3  align="justify">
+  I graduated in Information Systems 🏛. I love studying and exploring new technologies, continually seeking to specialize 🧑‍💻. I'm currently working as a Web Dev with .NET 6.0 and React. Daily I'm studying React.js, Node.js and React Native by Rocketseat 📚 💻.
 </h3>
 <br>
 <br>
